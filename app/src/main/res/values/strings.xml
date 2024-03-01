@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TBC_test11</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="from">from</string>
+    <string name="choose_account">Choose Account</string>
+    <string name="cash">\@cash</string>
+    <string name="cardNums">**** 1234</string>
+    <string name="to">to</string>
+    <string name="choose_a_method">Choose a method</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="account_number">Account Number</string>
+    <string name="id_number">Id Number</string>
+    <string name="choose">Choose</string>
+</resources>
